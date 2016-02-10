@@ -5,14 +5,13 @@
 @implementation FISAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-
+    
     /**
     
      * Hey! Write your code here! :D
      
      */
-    
-    // do not alter
+    NSLog(@"Hello, Wold!");    // do not alter
     return YES;  //
 }   ///////////////
 
